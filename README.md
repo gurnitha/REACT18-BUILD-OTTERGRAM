@@ -143,3 +143,23 @@
         Image Not appreared
 
         :)
+
+
+#### 2.4 Reusing a Component
+
+        modified:   README.md
+        modified:   src/App.css
+        modified:   src/App.js << -- Reusing the Post component (App.js)
+        modified:   src/components/Post.js << -- Add props image in Post.js
+
+        modified:   README.md
+
+        NOTE:
+
+        1. Reusing the post comp in App.js
+        2. Add style
+        3. Add props image in Post.js
+
+        Image showing up again
+
+        :)

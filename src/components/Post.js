@@ -3,7 +3,8 @@ function Post(props) {
 	return(
 		<li className='post-component'>
           <button>
-            <p>{props.name}</p>
+          	<img src={props.image} alt={props.name}/>
+            <p className="post-name">{props.name}</p>
           </button>
         </li>
 	)
