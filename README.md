@@ -203,6 +203,17 @@
         a key as a prop for each child in the list.
 
 
+#### 2.7 Including a key as a prop for each child in the list
+
+        modified:   README.md
+        modified:   src/App.js
+
+        NOTE:
+
+        Issues dis-appeared
+
+        :)
+
 
 
 

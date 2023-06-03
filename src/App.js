@@ -8,11 +8,11 @@ import Lesley from './otters/otter4.jpg';
 import Barbara from './otters/otter5.jpg';
 
 const ottersArray = [
- { image: Barry, name: 'Barry' },
- { image: Robin, name: 'Robin' },
- { image: Maurice, name: 'Maurice' },
- { image: Lesley, name: 'Lesley' },
- { image: Barbara, name: 'Barbara' },
+ { image: Barry, name: 'Barry', id: 1 },
+ { image: Robin, name: 'Robin', id: 2 },
+ { image: Maurice, name: 'Maurice', id: 3 },
+ { image: Lesley, name: 'Lesley', id: 4 },
+ { image: Barbara, name: 'Barbara', id: 5 },
 ];
 
 
