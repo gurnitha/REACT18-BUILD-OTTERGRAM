@@ -163,3 +163,23 @@
         Image showing up again
 
         :)
+
+
+#### 2.5 Object destructuring
+
+        modified:   README.md
+        modified:   src/components/Post.js
+
+        NOTE:
+
+        Before: function Post({props})
+        Before: <img src={props.image} alt={props.name}/>
+        Before: <p className="post-name">{props.name}</p>
+
+        After: function Post({ image, name })
+        After: <img src={image} alt={name}/>
+        After: <p className="post-name">{name}</p>
+
+        :)
+
+
