@@ -99,3 +99,23 @@
 
 
 ## Chapter 2. Components
+
+
+#### 2.1 Membuat Header Component
+
+        modified:   README.md
+        new file:   src/components/Header.js << -- header components
+        modified:   src/App.js << -- import Header component here
+
+        NOTE:
+
+        1. Membuat components folder
+        2. Membuat Header.js file di dalam folder component
+           dan fungsi Header dan export default Header
+        3. Pindahkan element header dari app.js ke dalam
+           fungsi Header di dalam Header.js
+        4. Import Header.js ke App.js
+        5. Render Header pada App.js
+
+        :)
+
