@@ -119,3 +119,14 @@
 
         :)
 
+
+#### 2.2 Membuat Post Component
+
+        modified:   src/App.js
+        new file:   src/components/Post.js
+
+        NOTE:
+
+        Caranya sama spt dalam 2.1
+
+        :)
