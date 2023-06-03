@@ -67,3 +67,16 @@
            - Render them here 
 
         :)
+
+
+#### 1.4 Styling the elements
+
+        modified:   README.md
+        modified:   src/App.css << -- add style
+        modified:   src/App.js <<-- add className to each elements
+
+        NOTE:
+
+        1. Styling the elements in App.js
+
+        :)
