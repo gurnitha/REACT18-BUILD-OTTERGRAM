@@ -98,3 +98,4 @@
         keuntungan dari alat Bereaksi yang kuat yang disebut komponen.
 
 
+## Chapter 2. Components
