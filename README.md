@@ -80,3 +80,21 @@
         1. Styling the elements in App.js
 
         :)
+
+
+#### 1.5 Kesimpulan
+
+        NOTE:
+
+        Kerja bagus! 
+
+        Anda menggunakan Create React App untuk membuat aplikasi kerangka dan
+        menyesuaikan info default untuk memastikan pengguna tahu di situs mana mereka berada. 
+
+        Anda menambahkan tajuk (header), gambar, dan teks ke laman sehingga menampilkan umpan dari
+        berang-berang trendi. Anda juga menambahkan styles menggunakan kata kunci React className.
+
+        Di bab selanjutnya, Anda akan mengembangkan pekerjaan yang Anda lakukan di sini dengan mengambil
+        keuntungan dari alat Bereaksi yang kuat yang disebut komponen.
+
+
