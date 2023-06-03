@@ -130,3 +130,16 @@
         Caranya sama spt dalam 2.1
 
         :)
+
+
+#### 2.3 Props
+
+        modified:   README.md
+        modified:   src/App.js << -- Passing props using attributes (App.js)
+        modified:   src/components/Post.js <<-- Using prop values in a component (Post.js)
+
+        NOTE:
+
+        Image Not appreared
+
+        :)

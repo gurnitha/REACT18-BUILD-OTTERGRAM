@@ -1,11 +1,9 @@
-import Barry from '../otters/otter1.jpg';
+function Post(props) {
 
-function Post() {
 	return(
 		<li className='post-component'>
           <button>
-            <img src={Barry} alt='Barry'/>
-            <p>Barry</p>
+            <p>{props.name}</p>
           </button>
         </li>
 	)
