@@ -7,6 +7,15 @@ import Maurice from './otters/otter3.jpg';
 import Lesley from './otters/otter4.jpg';
 import Barbara from './otters/otter5.jpg';
 
+const ottersArray = [
+ { image: Barry, name: 'Barry' },
+ { image: Robin, name: 'Robin' },
+ { image: Maurice, name: 'Maurice' },
+ { image: Lesley, name: 'Lesley' },
+ { image: Barbara, name: 'Barbara' },
+];
+
+
 function App() {
   return (
     <div className="App">
@@ -15,11 +24,14 @@ function App() {
 
       <ul className='post-list'>
 
-        <Post image={Barry} name='Barry' />
-        <Post image={Robin} name='Robin' />
-        <Post image={Maurice} name='Maurice' />
-        <Post image={Lesley} name='Lesley' />
-        <Post image={Barbara} name='Barbara' />
+        {ottersArray.map ((post) => (
+        
+          <Post 
+            image={post.image}
+            name={post.name}
+          />
+
+        ))}
 
       </ul>
 

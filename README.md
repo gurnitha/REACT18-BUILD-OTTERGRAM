@@ -183,3 +183,27 @@
         :)
 
 
+#### 2.6 Rendering Lists
+
+        modified:   README.md
+        modified:   src/App.js
+
+        NOTE:
+
+        1. Create an array of data in App.js
+        2. Use the hard-coded data array
+        and loop (map) them within the App.js
+
+        :)
+
+        It shows some issues in the Browser DevTools.
+
+        What happened? 
+        As the warning says, you should include 
+        a key as a prop for each child in the list.
+
+
+
+
+
+
