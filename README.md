@@ -47,3 +47,23 @@
 
         :)
 
+
+#### 1.3 Adding Elements
+
+        modified:   README.md
+        modified:   src/App.js
+        new file:   src/otters/otter1.jpg
+        new file:   src/otters/otter2.jpg
+        new file:   src/otters/otter3.jpg
+        new file:   src/otters/otter4.jpg
+        new file:   src/otters/otter5.jpg
+
+        NOTE:
+
+        1. Create new folder: otters
+        2. Add some images to otters folder
+        3. In App.js:
+           - Import the images
+           - Render them here 
+
+        :)
