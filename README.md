@@ -29,3 +29,21 @@
         new file:   src/logo.svg
         new file:   src/reportWebVitals.js
         new file:   src/setupTests.js
+
+
+#### 1.2 Hello Ottergram
+
+        modified:   README.md
+        modified:   public/favicon.ico <<-- replaced logo
+        modified:   public/index.html <<-- modified
+        modified:   public/logo192.png <<-- replaced logo
+        modified:   public/logo512.png <<-- replaced logo
+        modified:   src/App.js <<-- modified
+
+        NOTE:
+
+        1. Modified files, added new logo and added page title.
+        2. Display Hello Ottergram
+
+        :)
+
