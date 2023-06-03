@@ -215,6 +215,23 @@
         :)
 
 
+#### 2.8 Conclusion
+
+        Your app is on its way to being otter-ly amazing. Y
+        ou broke down the Ottergram application into individual 
+        components and can see those
+        components and their props in the React DevTools. 
+
+        And you are set up to
+        render large arrays of data with just a few lines of code.
+        
+        In the next chapter, you will continue to build on what 
+        you have learned and give users the ability to interact 
+        with your app by highlighting their favorite
+        otter.
+
+
+
 
 
 
